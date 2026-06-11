@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add your GitHub Pages or Netlify URL here](https://your-live-site-url.com)
+- Live Site URL: https://kelvyn94.github.io/newsletter-sign-up-with-success-message-main/
 
 ## My Process
 
