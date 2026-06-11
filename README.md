@@ -16,6 +16,9 @@ Users should be able to:
 
 ### Screenshot
 
+<img width="1365" height="576" alt="image" src="https://github.com/user-attachments/assets/b0afcfed-4134-47ae-b15d-5685d6c2b28e" />
+
+
 ### Links
 
 - Live Site URL: https://kelvyn94.github.io/newsletter-sign-up-with-success-message-main/
